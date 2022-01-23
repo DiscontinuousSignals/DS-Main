@@ -1,6 +1,6 @@
 {
   "slug": "DiscontinuousSignals",
-  "name": "DiscontinuousSignals",
+  "name": "Discontinuous Signals",
   "version": "2.0.0",
   "license": "MIT",
   "brand": "Discontinuous Signals",
@@ -10,7 +10,16 @@
   "pluginUrl": "https://discontinuoussignals.github.io/ds-main/",
   "manualUrl": "https://discontinuoussignals.github.io/ds-main/manual/",
   "sourceUrl": "https://github.com/DiscontinuousSignals/DS-Main",
-  "donateUrl": "https://donate.to.me/DiscontinuousSignals",
+  "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [
+    {
+      "slug": "DS_BitBlink",
+      "name": "BitBlink",
+      "description": "Count Bits and Blink Triggers",
+      "tags": [
+        "visual"
+      ]
+    }
+  ]
 }
